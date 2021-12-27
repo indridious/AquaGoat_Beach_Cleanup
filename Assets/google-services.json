@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591171594119",
+    "project_id": "aquagoat-beach-cleanup-2424757",
+    "storage_bucket": "aquagoat-beach-cleanup-2424757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591171594119:android:1f9bcc9438f878ce681522",
+        "android_client_info": {
+          "package_name": "com.IndridiousGaming.AquaGoatBeachCleanup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591171594119-fnmd0f0b24dst90r74u5dc6kahacn062.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChVlL-SuvQ_jQ1gBshSEviOv7VDbLVXoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591171594119-fnmd0f0b24dst90r74u5dc6kahacn062.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
